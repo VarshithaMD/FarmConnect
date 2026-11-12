@@ -1,0 +1,6 @@
+{
+  "name": "FarmConnect",
+  "description": "Direct Farmer-to-Consumer Agricultural Marketplace connecting local organic farmers with conscious consumers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
